@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+
+button{
+    font-size: 36px;
+}
+
+#btn{
+    display: block;
+    background-color: white;
+    width: 10%;
+    border: none;
+    font-size: 80px;
+    margin: 30px auto;
+}
+
+#text{
+    font-size:54px ;
+    margin: 40px 500px;
+    padding: 40px ;
+    border: 3px solid black;
+    border-radius: 50px 0 50px 0;
+}
+
+#enter{
+    font-size: 24px;
+    width: 22%;
+    padding: 10px;
+    border-radius: 50px;
+    
+}
+
+#cavab{
+    margin: 50px;
+    font-size: 36px;
+}
+
+#check{
+    font-size: 28px;
+    padding: 5px;
+}
